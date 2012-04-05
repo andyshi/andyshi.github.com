@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://andyshi.github.com/atom.xml" rel="self"/>
   <link href="http://andyshi.github.com/"/>
-  <updated>2012-04-05T16:59:07+08:00</updated>
+  <updated>2012-04-05T17:02:13+08:00</updated>
   <id>http://andyshi.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -22,6 +22,14 @@
 
 
 <p>I love programming!</p>
+
+<pre>
+public class Person
+{
+  private int _age;
+}
+</pre>
+
 ]]></content>
   </entry>
   
